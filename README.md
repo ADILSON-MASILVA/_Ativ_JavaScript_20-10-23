@@ -1,6 +1,6 @@
 # Projeto de Atividades 02 data 20-10-2023
 
-Bem-vindo as atividades! Este repositório contém códigos em JavaScript 
+Bem-vindo as atividades! Este repositório contém códigos em JavaScript ATENÇÃO!!! | Para testes nao esqueça de colocar no arquivo script.js somente o codigo que sera testado| 
 
 ## Exercícios
 
