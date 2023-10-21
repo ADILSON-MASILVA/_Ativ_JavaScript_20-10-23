@@ -110,10 +110,10 @@ You can support the maintainer of this project through the links below
 
 ## Declaração
 
-Sem declaração de projeto!!
+Utilização para desenvolvimento de conhecimento em uso academico
 
 ## Licenças
 
 Copyright 2019 
 
-Não necessita de licenciamento sinta se a vontade para altera ou contribuir no codigo
+Não necessita de licenciamento sinta se a vontade para altera ou contribuir com o codigo
