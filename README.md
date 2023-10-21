@@ -105,7 +105,7 @@ Curso Full_Stack SENAC São Paulo
 
 You can support the maintainer of this project through the links below
 
-- [Support via GitHub Sponsors](DEV_FULLSTACK_DATA_JAVAz)
+- [Support via GitHub Sponsors](https://github.com/)
 
 
 ## Declaração
