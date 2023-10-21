@@ -67,12 +67,13 @@ O projeto inclui vários exercícios que ajudarão a praticar as estruturas de d
 ## Infraestrutura para executar testes das atividades:
 
 ```
-📂 Ativ02_
+📂 Ativ02_SENAC-SP
 │
 ├── 📄 index.html
 │
 └── 📂 js
     └── 📄 script.js
+    └── 📄 Codigo_Todas_Font_Ativ.js
 
 ```
 ## Codigo do HTML para executar os testes
